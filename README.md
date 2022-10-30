@@ -4,14 +4,6 @@
 
 Portfólio é um projeto para me apresentar com alguns projetos feitos com a mão no código. Publiquei usando o github pages.
 
-## Funcionalidades
-
-<ul>
-  [x] - adicionar comentários<br>
-  [x] - aplaudir (likes)<br>
-  [x] - apagar comentário<br>
-</ul>
-
 ## Referências
 
 Aprendi muito usando de referência o video do canal EGATOR (https://lnkd.in/drmeU6r5)
