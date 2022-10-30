@@ -29,4 +29,5 @@ Link para o projeto: https://lnkd.in/d29GAqxx
   <li>Vite</li><br>
   <li>Hooks</li><br>
   <li>react-icons</li><br>
+  <li>EmailJS</li><br>
 </ul>
