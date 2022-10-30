@@ -1,6 +1,6 @@
 # Portfólio
 
-<img src="/home.JPG" alt="home do projeto Portfólio" />
+<img src="/home.jpg" alt="home do projeto Portfólio" />
 
 Portfólio é um projeto para me apresentar com alguns projetos feitos com a mão no código. Publiquei usando o github pages.
 
