@@ -41,7 +41,7 @@ export function Contact() {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>rotsteindaniel@gmail.com</h5>
-            <a href="maialto:rotsteindaniel@gmail.com">Send a message</a>
+            <a href="mailto:rotsteindaniel@gmail.com">Send a message</a>
           </article>
           <article className="contact__option">
             <AiOutlineLinkedin className="contact__option-icon" />
