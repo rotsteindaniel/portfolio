@@ -3,50 +3,50 @@ import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG5 from "../../assets/portfolio5.jpg";
 import IMG6 from "../../assets/portfolio6.jpg";
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Title 1",
-    github: "http://www.github.com/rotsteindaniel",
+    title: "Yelp Camp",
+    github: "https://github.com/rotsteindaniel/YelpCamp",
     talk: "#contact",
   },
   {
     id: 2,
     image: IMG2,
-    title: "Title 2",
-    github: "http://github.com/rotsteindaniel",
+    title: "Ignite Feed",
+    github: "https://github.com/rotsteindaniel/projeto-01-feed-typescript",
     talk: "#contact",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Title 3",
-    github: "http://github.com/rotsteindaniel",
+    title: "Food Order App",
+    github: "https://github.com/rotsteindaniel/food-odrder-app",
     talk: "#contact",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Title 4",
-    github: "http://github.com/rotsteindaniel",
+    title: "Random Advice",
+    github: "https://github.com/rotsteindaniel/random-advice",
     talk: "#contact",
   },
   {
     id: 5,
     image: IMG5,
-    title: "Title 5",
-    github: "http://github.com/rotsteindaniel",
+    title: "Password Generator",
+    github: "https://github.com/rotsteindaniel/gerador-de-senha",
     talk: "#contact",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Title 6",
-    github: "http://github.com/rotsteindaniel",
+    title: "Front End Mentor",
+    github: "https://github.com/rotsteindaniel/front-end-mentor",
     talk: "#contact",
   },
 ];
